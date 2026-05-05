@@ -1,0 +1,34 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.1.0",
+	"FriendlyName": "Area Scatter",
+	"Description": "Editor-time area scatter tool for designers. Spline area + rule stack -> Actor / ISM / HISM / PCG points.",
+	"Category": "Editor",
+	"CreatedBy": "sion-sychen",
+	"CreatedByURL": "https://github.com/sion-sychen",
+	"DocsURL": "https://github.com/sion-sychen/ActorScatter/blob/main/Plugins/AreaScatter/README.md",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/sion-sychen/ActorScatter/issues",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		}
+	],
+	"Modules": [
+		{
+			"Name": "AreaScatter",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "AreaScatterEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+# Unreal Engine generated / build artifacts
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+Script/
+Enterprise/Binaries/
+Enterprise/Intermediate/
+Enterprise/Plugins/*/Binaries/
+Enterprise/Plugins/*/Intermediate/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# IDE / OS
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+*.user
+*.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+*.o
+*.app
+*.so
+*.dylib
+
+# UE collections / per-user
+Content/Collections/
+Content/Developers/
+
+# Cooked output
+Cooked/
+Packaged/
