@@ -4,7 +4,7 @@ Editor-time area scatter plugin for Unreal Engine 5.4. Spline area + rule asset 
 
 > ⚠️ **Experimental — v0.1.0.** Tested on UE 5.4 (Windows). 5.3 / 5.5 untested. API and asset schema may change in minor releases. Not recommended for ship-blocking work yet — designed for individual designer/TA use and feedback.
 >
-> License: [MIT](../../LICENSE) — free for any use including commercial. Issues / PRs welcome at [GitHub](https://github.com/sion-sychen/ActorScatter/issues).
+> License: [MIT](../../LICENSE) — free for any use including commercial. Issues / PRs welcome at [GitHub](https://github.com/sionsychen/Unreal-ActorScatter/issues).
 
 ## Self-documenting tooling
 
